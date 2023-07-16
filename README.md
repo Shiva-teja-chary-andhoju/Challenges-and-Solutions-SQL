@@ -5,7 +5,7 @@
 * The project focuses on creating a database schema to manage employee information efficiently.
 * Two main tables, 'employees' and 'departments,' are designed to store employee and department details.
 
-## Key Tasks and Solutions:
+## Key Tasks:
 
 **Task 1:** Created the 'employees' table with essential columns like employee ID, name, position, salary, dates, department ID, and manager ID.
 
@@ -34,6 +34,10 @@
 **Task 13:** Introduced ranking functionality to determine the rank of employees based on their salary within each department.
 
 **Task 14:** Filtered the results to display only the top-ranked employees within each department.
+
+## Solutions:
+
+[Click Here](https://github.com/Shiva-teja-chary-andhoju/Challenges-and-Solutions-SQL/blob/main/Solutions.sql)
 
 ## Conclusion:
 
