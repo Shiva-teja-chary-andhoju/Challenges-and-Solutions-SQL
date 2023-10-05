@@ -1,5 +1,13 @@
 # Challenges-and-Solutions-SQL
 
+## Tech Stack Used
+
+<img src="https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/assets/128379454/3ca27078-eb92-4dab-a150-956bf83618e9" width="150" />
+
+
+* SQL
+* PostgreSQL
+* pgAdmin
 ## Overview:
 
 * The project focuses on creating a database schema to manage employee information efficiently.
@@ -37,7 +45,7 @@
 
 ## Solutions:
 
-[Click Here](https://github.com/Shiva-teja-chary-andhoju/Challenges-and-Solutions-SQL/blob/main/Solutions.sql)
+👉 [Click Here](https://github.com/Shiva-teja-chary-andhoju/Challenges-and-Solutions-SQL/blob/main/Solutions.sql)
 
 ## Conclusion:
 
